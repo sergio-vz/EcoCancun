@@ -29,7 +29,7 @@ function Navbar() {
           <NavItem href="/objetivos">objetivos</NavItem>
           <NavItem href="/equipo">equipo</NavItem>
           <NavItem href="/fases">fases</NavItem>
-          <NavItem href="/preguntas-frecuentes">FAQ's</NavItem>
+          <NavItem href="/preguntas-frecuentes">FAQs</NavItem>
         </NavList>
       </NavContainer>
     );
