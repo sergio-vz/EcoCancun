@@ -1,0 +1,21 @@
+:root {
+    --mainColor: rgb(10, 103, 10);
+    --secColor: rgb(9, 90, 9);
+    --banner-height: 70vh;
+}
+::selection {
+    background-color: rgb(8, 169, 8);
+    color: white;
+}
+html {
+    height: auto;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: auto;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
